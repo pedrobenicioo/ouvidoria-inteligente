@@ -1,0 +1,242 @@
+[
+  {
+    "id": "M001",
+    "data": "2025-03-03",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O poste de iluminação da Rua das Flores está apagado há duas semanas e a rua fica completamente escura à noite, dificultando a passagem dos moradores."
+  },
+  {
+    "id": "M002",
+    "data": "2025-03-05",
+    "categoria_oficial": "saúde",
+    "texto": "Fui à UPA com febre alta e esperei mais de cinco horas para ser atendido, sem nenhuma previsão de chamada nem informação da recepção."
+  },
+  {
+    "id": "M003",
+    "data": "2025-03-06",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Existe um buraco enorme na Av. Brasil, na altura do número 1200, que já causou dois acidentes com motos. Precisa de reparo urgente."
+  },
+  {
+    "id": "M004",
+    "data": "2025-03-08",
+    "categoria_oficial": "segurança",
+    "texto": "Assaltos frequentes na parada de ônibus da Rua XV no período da noite. Precisamos de policiamento e câmeras de monitoramento no local."
+  },
+  {
+    "id": "M005",
+    "data": "2025-03-10",
+    "categoria_oficial": "educação",
+    "texto": "Escrevo para relatar a situação da escola municipal do bairro Vila Nova. Desde o início do ano letivo, as turmas do quinto ano ficam sem professor titular em pelo menos dois dias por semana, e as crianças são apenas reunidas em um pátio sem nenhuma atividade. Além disso, o banheiro dos alunos está interditado há três meses, obrigando as crianças a esperarem em fila para usar o único banheiro dos funcionários. A merenda chega fria e em pouca quantidade, e várias vezes acaba antes de todos serem servidos. Por fim, o portão da escola vive aberto, sem porteiro, e pessoas estranhas já entraram durante o horário das aulas. Pedimos providências imediatas da Secretaria de Educação."
+  },
+  {
+    "id": "M006",
+    "data": "2025-03-11",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Lixo acumulado no terreno baldio ao lado da escola, com mau cheiro forte e presença de ratos e baratas. Solicito limpeza e fiscalização."
+  },
+  {
+    "id": "M007",
+    "data": "2025-03-12",
+    "categoria_oficial": "educação",
+    "texto": "A escola municipal do bairro Jardim Esperança está sem merenda há uma semana e as crianças estão passando fome durante as aulas."
+  },
+  {
+    "id": "M008",
+    "data": "2025-03-14",
+    "categoria_oficial": "saúde",
+    "texto": "O posto de saúde do meu bairro está sem médico há mais de um mês e ninguém consegue marcar consulta."
+  },
+  {
+    "id": "M009",
+    "data": "2025-03-15",
+    "categoria_oficial": "segurança",
+    "texto": "Carros passam em alta velocidade na rua da creche. Faltam lombada e faixa de pedestres, e as crianças correm risco de atropelamento."
+  },
+  {
+    "id": "M010",
+    "data": "2025-03-17",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Esgoto a céu aberto na Rua das Acácias. O cheiro é insuportável e há risco de doenças para as famílias que moram ali."
+  },
+  {
+    "id": "M011",
+    "data": "2025-03-18",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A calçada em frente ao mercado municipal está quebrada e cheia de desníveis. Idosos e cadeirantes não conseguem passar com segurança."
+  },
+  {
+    "id": "M012",
+    "data": "2025-03-20",
+    "categoria_oficial": "educação",
+    "texto": "Faltam professores de matemática na escola municipal do Centro. Os alunos do 8º ano estão sem essa matéria desde o começo do semestre."
+  },
+  {
+    "id": "M013",
+    "data": "2025-03-21",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Queimada em terreno vazio soltando muita fumaça o dia todo, prejudicando quem tem problemas respiratórios, principalmente crianças e idosos."
+  },
+  {
+    "id": "M014",
+    "data": "2025-03-24",
+    "categoria_oficial": "saúde",
+    "texto": "Sou moradora do bairro São José e gostaria de registrar diversos problemas no atendimento de saúde da região. Minha mãe, idosa e diabética, precisou de consulta com endocrinologista e aguarda na fila do SUS há mais de oito meses, sem qualquer retorno da central de regulação. Quando ela passa mal, a ambulância demora mais de uma hora para chegar. Na farmácia do posto, faltam insulina e vários remédios de uso contínuo, e somos obrigados a comprar com o próprio dinheiro. Os agentes comunitários de saúde não visitam a rua há meses. Por último, o exame de sangue que ela fez foi perdido pelo laboratório e precisou ser repetido, atrasando ainda mais o tratamento."
+  },
+  {
+    "id": "M015",
+    "data": "2025-03-25",
+    "categoria_oficial": "segurança",
+    "texto": "Ponto de tráfico de drogas funcionando abertamente na praça central, à vista de todos, sem nenhuma ação da guarda municipal."
+  },
+  {
+    "id": "M016",
+    "data": "2025-03-27",
+    "categoria_oficial": "educação",
+    "texto": "O ônibus escolar da zona rural está quebrado e as crianças estão faltando às aulas por não terem como chegar à escola."
+  },
+  {
+    "id": "M017",
+    "data": "2025-03-28",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O asfalto da avenida principal está todo esburacado, os carros estão estragando pneus e suspensão."
+  },
+  {
+    "id": "M018",
+    "data": "2025-03-31",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Uma árvore caiu na calçada após a chuva forte e ninguém da prefeitura veio recolher os galhos, que bloqueiam a passagem de pedestres."
+  },
+  {
+    "id": "M019",
+    "data": "2025-04-02",
+    "categoria_oficial": "saúde",
+    "texto": "A ambulância do SAMU demorou quase uma hora para chegar em uma emergência com meu pai, que estava com dor no peito."
+  },
+  {
+    "id": "M020",
+    "data": "2025-04-03",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Venho reclamar do abandono da Rua Sete de Setembro, no bairro Bela Vista. O asfalto está cheio de crateras que se enchem de água quando chove, e os moradores já perderam a conta de rodas e pneus danificados. As bocas de lobo estão entupidas de lixo e terra, e a cada temporal a rua vira um rio, com água entrando nas casas mais baixas. Três postes estão sem lâmpada, deixando o trecho da esquina até a praça totalmente às escuras, e por isso aumentaram os furtos. Também não há sinalização de trânsito: a placa de pare foi derrubada por um caminhão e nunca foi recolocada. Aguardamos uma vistoria da Secretaria de Obras."
+  },
+  {
+    "id": "M021",
+    "data": "2025-04-04",
+    "categoria_oficial": "segurança",
+    "texto": "Não há câmeras de monitoramento na praça do bairro, onde furtos de celulares acontecem com frequência no fim da tarde."
+  },
+  {
+    "id": "M022",
+    "data": "2025-04-07",
+    "categoria_oficial": "saúde",
+    "texto": "Falta atendimento no PSF da comunidade. Não tem doutor e os agentes de saúde não aparecem."
+  },
+  {
+    "id": "M023",
+    "data": "2025-04-08",
+    "categoria_oficial": "educação",
+    "texto": "A creche municipal tem uma lista de espera enorme e várias mães não conseguem vaga para os filhos, o que as impede de trabalhar."
+  },
+  {
+    "id": "M024",
+    "data": "2025-04-09",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O rio que passa pelo bairro está poluído com óleo e lixo despejados, aparentemente, por uma indústria próxima. Há peixes mortos nas margens."
+  },
+  {
+    "id": "M025",
+    "data": "2025-04-11",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O bueiro entupido na esquina da Rua Sete causa alagamento toda vez que chove, e a água chega a invadir as lojas da região."
+  },
+  {
+    "id": "M026",
+    "data": "2025-04-14",
+    "categoria_oficial": "saúde",
+    "texto": "Está faltando remédio para hipertensão na farmácia do posto de saúde, e tive que comprar com meu próprio dinheiro."
+  },
+  {
+    "id": "M027",
+    "data": "2025-04-15",
+    "categoria_oficial": "segurança",
+    "texto": "Gostaria de relatar a insegurança que enfrentamos no bairro Santa Clara. Nos últimos meses, houve mais de dez assaltos a pedestres na avenida principal, sempre à noite, e a viatura da polícia só passa uma vez por turno. Existe também uma casa abandonada na esquina da Rua das Palmeiras, ocupada por usuários de drogas, que se tornou ponto de venda e esconderijo. Os postes da região vivem com lâmpadas queimadas, o que facilita a ação dos criminosos. Além disso, motoqueiros fazem manobras perigosas e correm em alta velocidade perto da escola, colocando em risco os estudantes. Pedimos reforço do policiamento, iluminação nova e demolição do imóvel abandonado."
+  },
+  {
+    "id": "M028",
+    "data": "2025-04-16",
+    "categoria_oficial": "educação",
+    "texto": "A escola do bairro não tem acessibilidade: não há rampa de acesso, e alunos cadeirantes precisam ser carregados no colo para entrar."
+  },
+  {
+    "id": "M029",
+    "data": "2025-04-17",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Bar com som muito alto até de madrugada na Rua Nova. É impossível dormir e já liguei várias vezes para a fiscalização sem resposta."
+  },
+  {
+    "id": "M030",
+    "data": "2025-04-22",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O ponto de ônibus da Avenida Central não tem cobertura, e as pessoas se molham na chuva e sofrem com o sol forte."
+  },
+  {
+    "id": "M031",
+    "data": "2025-04-23",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A lâmpada queimada na praça deixa o local escuro à noite e afasta os moradores."
+  },
+  {
+    "id": "M032",
+    "data": "2025-04-24",
+    "categoria_oficial": "saúde",
+    "texto": "Estou há meses esperando uma consulta com cardiologista pelo SUS, e a central de regulação não dá nenhuma previsão."
+  },
+  {
+    "id": "M033",
+    "data": "2025-04-28",
+    "categoria_oficial": "segurança",
+    "texto": "Há uma casa abandonada na Rua Sete usada por usuários de drogas, e os moradores da vizinhança estão com medo de sair à noite."
+  },
+  {
+    "id": "M034",
+    "data": "2025-05-02",
+    "categoria_oficial": "educação",
+    "texto": "A biblioteca da escola está fechada, sem funcionário responsável, e os livros estão mofando nas prateleiras."
+  },
+  {
+    "id": "M035",
+    "data": "2025-05-05",
+    "categoria_oficial": "educação",
+    "texto": "Os alunos do oitavo ano estão sem aula de matemática há meses porque a escola não tem professor contratado para a disciplina."
+  },
+  {
+    "id": "M036",
+    "data": "2025-05-06",
+    "categoria_oficial": "meio ambiente",
+    "texto": "A coleta de lixo não passa na minha rua há dez dias, e os sacos se acumulam na calçada atraindo animais."
+  },
+  {
+    "id": "M037",
+    "data": "2025-05-08",
+    "categoria_oficial": "saúde",
+    "texto": "Faltou vacina contra a gripe no posto de saúde do centro, e vários idosos voltaram para casa sem serem vacinados."
+  },
+  {
+    "id": "M038",
+    "data": "2025-05-09",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Moro perto do córrego do bairro Alto da Serra e quero denunciar a degradação ambiental da região. Há meses um loteamento clandestino despeja entulho e esgoto direto no córrego, que já mudou de cor e exala mau cheiro. Todo o mato nas margens foi cortado e queimado, e a fumaça incomoda os vizinhos, muitos com asma e bronquite. Percebi também um aumento de mosquitos e ratos, e duas crianças da vizinhança tiveram dengue. Os pneus e o lixo jogados no terreno ao lado acumulam água parada. A coleta de lixo passa apenas uma vez por semana, insuficiente para o volume. Peço a fiscalização do órgão ambiental e a limpeza do córrego."
+  },
+  {
+    "id": "M039",
+    "data": "2025-05-12",
+    "categoria_oficial": "segurança",
+    "texto": "O semáforo do cruzamento da Av. Central com a Rua 10 está desligado há dias, e o risco de acidentes é constante nos horários de pico."
+  },
+  {
+    "id": "M040",
+    "data": "2025-05-13",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Há muitos focos de mosquito da dengue em um terreno com pneus velhos e água parada. Peço fiscalização e limpeza urgente."
+  }
+]

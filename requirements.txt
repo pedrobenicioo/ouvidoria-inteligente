@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+sentence-transformers
+langchain-text-splitters
+plotly
+matplotlib
+seaborn
+# apenas para regenerar notebooks/relatório
+nbformat
+nbconvert
+ipykernel
+reportlab
